@@ -1,4 +1,4 @@
-# House Reserve | back-end | NodeJS
+# House Reserve | Back-end | NodeJS
 
 A NodeJS API to register houses for rent using email and make reservations.
 
